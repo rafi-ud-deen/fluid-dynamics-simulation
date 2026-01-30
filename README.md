@@ -2,6 +2,8 @@
 
 Interactive WebGL-based fluid dynamics simulation built with React, TypeScript, and advanced shader programming.
 
+🚀 **[Live Demo](https://rafi-ud-deen.github.io/fluid-dynamics-simulation/)**
+
 ## Features
 
 - **Realistic Physics**: Navier-Stokes fluid simulation using Jos Stam's "Stable Fluids" method
