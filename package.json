@@ -1,7 +1,9 @@
 {
-  "name": "react-vite-tailwind",
+  "name": "fluid-dynamics-simulation",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Rafi Ud Deen",
+  "description": "Interactive WebGL fluid dynamics simulation with React and TypeScript",
   "type": "module",
   "scripts": {
     "dev": "vite",
